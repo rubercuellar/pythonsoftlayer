@@ -1,0 +1,16 @@
+.DS_Store
+*.swp
+Thumbs.db
+.svn
+._*
+*.pyc
+.coverage
+htmlcov
+cover/*
+.tox
+docs/_build/*
+build/*
+dist/*
+*.egg-info
+.cache
+
