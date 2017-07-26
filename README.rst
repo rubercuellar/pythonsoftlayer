@@ -1,5 +1,5 @@
-SoftLayer API Python Client
-===========================
+SoftLayer API Python Client V1
+==============================
 .. image:: https://travis-ci.org/softlayer/softlayer-python.svg?branch=master
     :target: https://travis-ci.org/softlayer/softlayer-python
 
